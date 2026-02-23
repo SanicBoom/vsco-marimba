@@ -14,5 +14,67 @@
     "marimba_hit_outrigger_f5_loud_01": "Marimba_hit_Outrigger_F5_loud_01.wav",
     "marimba_hit_outrigger_g2_loud_01": "Marimba_hit_Outrigger_G2_loud_01.wav",
     "marimba_hit_outrigger_g4_loud_01": "Marimba_hit_Outrigger_G4_loud_01.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "F1",
+      "sample": "marimba_hit_outrigger_f1_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C2",
+      "sample": "marimba_hit_outrigger_c2_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "marimba_hit_outrigger_g2_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "marimba_hit_outrigger_b2_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "marimba_hit_outrigger_f3_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "marimba_hit_outrigger_c4_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "marimba_hit_outrigger_g4_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "marimba_hit_outrigger_b4_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "marimba_hit_outrigger_f5_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "marimba_hit_outrigger_c6_loud_01",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
